@@ -1,3 +1,6 @@
+# to execute the script, cookie value needs to be provided as an argument
+# example: python file_download.py "language=en; welcomebanner_status=dismiss; cookieconsent_status=dismiss; continueCode=84uvtJUxHbh5TqFLiKbueziaEf3ZHa6tWYcR5Sz9UB1ix7SEvUgmhN5tmmIDPh2WCBDIWVH6W"
+
 import requests
 import sys
 
