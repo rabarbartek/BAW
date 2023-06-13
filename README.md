@@ -61,13 +61,13 @@ npm --version
 
 ## Alternative Installation using script
 
-The OWASP Juice shop installation process can alternatively be performed using the "JS_init_script.sh" script. It is a bash script that ensures smooth installation of all necessary packages and programs to run OWASP Juice Shop in the right form. Appropriate script checkpoints verify whether JS is already installed and if so, run it from the location described in the content.
+The OWASP Juice shop installation process can alternatively be performed using the "JS_init_script_final.sh" script. It is a bash script that ensures smooth installation of all necessary packages and programs to run OWASP Juice Shop in the right form. Appropriate script checkpoints verify whether JS is already installed and if so, run it from the location described in the content.
 
 The initialization of the script should be performed in a location that allows you to create a folder containing the necessary files and using which the discussed web application will be launched in the future.
 
 To run the script, run the following command:
 ```console
-root@kali:~# ./JS_init_script.sh
+root@kali:~# ./JS_init_script_final.sh
 ```
 
 If you saved the script file with a different name than the one predefined in the repository, execute the appropriate command:
